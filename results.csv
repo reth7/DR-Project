@@ -1,0 +1,7 @@
+Model, Accuracy, Precision_score, Recall_score, F1_score, Support, Cohen_kappa_score
+MobileNetV2, 0.56, 0.3136, 0.56, 0.4020512820512821, 
+MobileNetV3Large, 0.69, 0.80, 0.42, 0.55, 98, 0.089041
+VGG19, 0.65, 0.65, 0.35, 0.45, 98, 0.0374037
+Resnet50, 0.74, 0.74, 0.57, 0.64, 98, 0.0984848
+Xception, 0.71, 1.00, 0.01, 0.02, 98, 0.00574712
+EfficientNet, 0.64, 0.87, 0.49, 0.63, 98, 0.123539
